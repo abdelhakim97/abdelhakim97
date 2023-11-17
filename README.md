@@ -40,7 +40,7 @@ I'm using HTML, CSS,PHP and JavaScript to make websites dance. 🕺🏽
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="(https://www.linkedin.com/in/abdelhakim-akayou-678806283)"/>
+  <a href="https://www.linkedin.com/in/abdelhakim-akayou-678806283"/>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
